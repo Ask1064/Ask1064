@@ -12,7 +12,7 @@ This repository serves as a showcase of my projects, assignments, and research w
 - Programming Languages: Python, Java, C++
 - Machine Learning: scikit-learn, TensorFlow, Keras, PyTorch
 - Deep Learning: Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)
-- Data Analysis and Visualization: pandas, NumPy, Matplotlib, Seaborn
+- Data Analysis and Visualization: pandas, NumPy, Matplotlib
 - Databases: SQL
 - Web Development: HTML, CSS, JavaScript
 
